@@ -1,0 +1,2 @@
+rootProject.name = "SimplePicasso"
+include ':app'
